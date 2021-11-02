@@ -8,6 +8,7 @@
 - 🔥 Junior Web Developer & Enthusiast programmer 
 
 - 🔭 I’m currently working at [TJPR] (It's not in the IT area)
+- ❤️ I study PHP and other languages as a hobby! Love it!
 
 <!--
 - 👨‍💻 All of my projects are available at [](https://maykbrito.dev)
