@@ -1,8 +1,8 @@
 
-<img align="right" height="590em"src="https://raw.githubusercontent.com/gist/mervy/f314904cb7e2c69274c2389ab3269a88/raw/e3f5c421060770d4712d0d91b3f184fab9090f3d/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/mervy/f314904cb7e2c69274c2389ab3269a88/raw/e3f5c421060770d4712d0d91b3f184fab9090f3d/githubcard.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rogério Soares</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mervy&color=blue" alt="Profile views" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mervy&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer & Enthusiast programmer 
 
