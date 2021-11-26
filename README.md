@@ -22,16 +22,17 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-<a href="https://git-scm.com/">![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;</a>
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Mysql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)&nbsp;
+
+<a href="https://www.php.net/">![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;</a>
+<a href="https://www.ecma-international.org/">![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;</a>
+<a href="https://nodejs.org/en/">![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;</a>
+<a href="https://www.w3.org/html/">![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;</a>
+<a href="https://www.php.net/">![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;</a>
+<a href="https://www.php.net/"><a href="https://git-scm.com/">![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;</a>
+<a href="https://www.php.net/">![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;</a>
+<a href="https://www.php.net/">![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;</a>
+<a href="https://www.php.net/">![Mysql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;</a>
+<a href="https://www.php.net/">![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)&nbsp;</a>
 
 
 <br><br>
